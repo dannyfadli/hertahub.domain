@@ -1,8 +1,20 @@
 # HertaHub
 ## Kelompok 1
-- Aaaa
--Bbb
--Cbbbb
+- Ridwan (185) - Pengembang fitur Forum
+
+- Daffa (166) -Manajemen Database & OAuth API
+
+- Fadli (156) - Pemgembangan Kelola User Untuk Role Admin
+
+- Galang  (176) - Penyusun Halaman Profil
+
+- Avanro (199) - Pengembang Menu Login/Register
+
+- Arthur  (196) - Pengelola halaman Home
+
+- Afnani (153) - Pengembang Login/Register
+
+- Rangga (155) - Tester/Qa
 
 
 
